@@ -1,5 +1,8 @@
 # tethys
 
+## Tutorial
+[Youtube](https://www.youtube.com/watch?v=ltzlhAxJr74) [GitHub](https://github.com/bradtraversy/nuxt_dadjokes)
+
 ## Build Setup
 
 ```bash
